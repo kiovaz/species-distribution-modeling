@@ -8,7 +8,7 @@ Este projeto implementa um pipeline computacional para análise de distribuiçã
 
 Validar a correlação entre modelos de adequabilidade ambiental (MaxEnt) e abundância real observada em campo (IDW), contrastando o **Nicho Fundamental** (onde a espécie *pode* viver) com o **Nicho Realizado** (onde ela *realmente* é abundante).
 
-## 🛠️ Funcionalidades
+## Funcionalidades
 
 ### 1. Pipeline de Limpeza de Dados
 Implementação de regras para mitigar o viés de coleta comum em dados de herbários (NHCs):
@@ -38,7 +38,7 @@ Implementação manual de interpolação espacial com restrições biológicas:
 - Distribuição espacial heterogênea simulando gradientes ecológicos
 - Base para cálculo do IDW
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 ```bash
